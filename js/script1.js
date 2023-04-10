@@ -1,2 +1,2 @@
 alert("HOLAA");
-document.write("HOLAA")
+document.write("HOLAA");
